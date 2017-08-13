@@ -34,6 +34,7 @@ public with sharing class OpportunitiesService {
                 oppsToUpdate.add(opportunity);
             }
         }
+      
 
         // Update the database
         SavePoint sp = Database.setSavePoint();
