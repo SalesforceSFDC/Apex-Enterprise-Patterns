@@ -1,3 +1,5 @@
+// service to apply a given discount to a set of Opportunities
+
 public with sharing class OpportunitiesService {
    public static void applyDiscounts(Set<Id> opportunityIds, Decimal discountPercentage) {
 
