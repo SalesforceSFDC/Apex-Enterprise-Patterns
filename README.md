@@ -29,4 +29,11 @@ public class
     }
 ```
 
+```Apex
+for (integer i=0, i<10, i++)
+for (init_stmt, exit condition, increment_stmt)
 
+```
+
+* @AuraEnabled - to call Apex method from a  Lightning component.  
+* Lightning components use Static signature         
