@@ -9,6 +9,8 @@
 
 * State - things that an onject knows about itself
 * Behavior - things that an object can do.
-
+* Variables - are used to sepcify the state of an object, such as object's name or type.
+* Methods - are used to control behavior, such as getOtherQuotes.
+    
 
 
