@@ -37,3 +37,8 @@ for (init_stmt, exit condition, increment_stmt)
 
 * @AuraEnabled - to call Apex method from a  Lightning component.  
 * Lightning components use Static signature         
+* Lightning Data Service uses an object named `force:recordData` to perform CRUD interactions on records.
+
+* Controller file - stores Javascript functions
+
+* Helper file - best practice: put anything we might need to either call multiple times or be called from another function.
