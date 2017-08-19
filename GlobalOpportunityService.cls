@@ -8,6 +8,3 @@ global class OpportunityService {
        // Implementation...
     }
 }
-
-
-
